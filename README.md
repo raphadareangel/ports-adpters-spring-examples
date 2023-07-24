@@ -1,7 +1,7 @@
 # ports-adpters-spring-examples
 ports-adpters-examples
 
-this repository includes 2 samples with ports-adapters achitecture
+this repository includes 2 samples with ports-adapters achitecture each project has its own readme file an this is a description of how to run the app whichever the project you pick
 
 # how to run the samples 
 NOTE: this apply for both projects
@@ -15,7 +15,7 @@ NOTE: this apply for both projects
 
 1. in the project adapters  chose the option run as JUNIT 
 
-## cucumber
+## cucumber (case of example with cucumber)
 1. install plug in cucumber from the market place in eclipse
 
 2. open /zara-adapters/src/test/java/com/zara/zara5/steps/IntegrationTest.java
