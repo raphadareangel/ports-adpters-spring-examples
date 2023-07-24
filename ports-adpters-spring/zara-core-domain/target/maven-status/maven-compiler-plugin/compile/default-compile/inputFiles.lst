@@ -1,0 +1,13 @@
+/Users/rafael/Downloads/zara-core-domain/src/main/java/com/zara/zara4/repository/PricingRepository.java
+/Users/rafael/Downloads/zara-core-domain/src/main/java/com/zara/zara4/exception/GenericException.java
+/Users/rafael/Downloads/zara-core-domain/src/main/java/com/zara/zara4/model/Pricing.java
+/Users/rafael/Downloads/zara-core-domain/src/main/java/com/zara/zara4/service/ProductService.java
+/Users/rafael/Downloads/zara-core-domain/src/main/java/com/zara/zara4/exception/GlobalExceptionHandler.java
+/Users/rafael/Downloads/zara-core-domain/src/main/java/com/zara/zara4/service/BrandService.java
+/Users/rafael/Downloads/zara-core-domain/src/main/java/com/zara/zara4/repository/ProductRepository.java
+/Users/rafael/Downloads/zara-core-domain/src/main/java/com/zara/zara4/exception/ResourceNotFoundException.java
+/Users/rafael/Downloads/zara-core-domain/src/main/java/com/zara/zara4/repository/BrandRepository.java
+/Users/rafael/Downloads/zara-core-domain/src/main/java/com/zara/zara4/service/PricingService.java
+/Users/rafael/Downloads/zara-core-domain/src/main/java/com/zara/zara4/model/Product.java
+/Users/rafael/Downloads/zara-core-domain/src/main/java/com/zara/zara4/model/Brand.java
+/Users/rafael/Downloads/zara-core-domain/src/main/java/com/zara/zara4/exception/ErrorResponse.java
