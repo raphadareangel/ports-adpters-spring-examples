@@ -6,7 +6,7 @@ this repository includes 2 samples with ports-adapters achitecture each project 
 # how to run the samples 
 NOTE: this apply for both projects
 
-1. import 3 poms of the project.
+1. import 3 poms of the project. (zara-aplication, zara-core-domain, zara-adapters)
 
 2. run as spring boot app the project adapter
 
