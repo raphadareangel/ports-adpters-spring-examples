@@ -15,7 +15,7 @@ NOTE: this apply for both projects
 
 1. in the project adapters  chose the option run as JUNIT 
 
-## cucunber
+## cucumber
 1. install plug in cucumber from the market place in eclipse
 
 2. open /zara-adapters/src/test/java/com/zara/zara5/steps/IntegrationTest.java
